@@ -1,0 +1,18 @@
+{
+    "Database": {
+        "columns": [
+            "Name",
+            "Age"
+        ],
+        "rows": [
+            {
+                "Name": "Sam",
+                "Age": "18"
+            },
+            {
+                "Name": "Kavi",
+                "Age": "17"
+            }
+        ]
+    }
+}
