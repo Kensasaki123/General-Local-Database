@@ -1,17 +1,71 @@
 {
-    "Database": {
+    "Something is coming": {
         "columns": [
             "Name",
-            "Age"
+            "Data",
+            "WTF"
         ],
         "rows": [
             {
-                "Name": "Sam",
-                "Age": "18"
+                "Name": "Somebody",
+                "Data": "dsda",
+                "WTF": "HERE IS not"
             },
             {
-                "Name": "Kavi",
-                "Age": "17"
+                "Name": "EVERYONE",
+                "Data": "LIKES",
+                "WTF": "TO"
+            },
+            {
+                "Name": "BE",
+                "Data": "HEre",
+                "WTF": "BRUHHHH"
+            }
+        ]
+    },
+    "Haloween": {
+        "columns": [
+            "S.No",
+            "Name",
+            "Age",
+            "Costume",
+            "Partner"
+        ],
+        "rows": [
+            {
+                "S.No": "1",
+                "Name": "Jeffrey",
+                "Age": "27",
+                "Costume": "ScareCrow",
+                "Partner": "Angelina"
+            },
+            {
+                "S.No": "2",
+                "Name": "Trump",
+                "Age": "80",
+                "Costume": "Orange",
+                "Partner": "Putin"
+            },
+            {
+                "S.No": "3",
+                "Name": "Biden",
+                "Age": "90",
+                "Costume": "Joker",
+                "Partner": "Dont make me say it"
+            },
+            {
+                "S.No": "4",
+                "Name": "Modi",
+                "Age": "100",
+                "Costume": "Kurta",
+                "Partner": "bruh"
+            },
+            {
+                "S.No": "Macron",
+                "Name": "macron",
+                "Age": "45",
+                "Costume": "baguette",
+                "Partner": "his wife?"
             }
         ]
     }
